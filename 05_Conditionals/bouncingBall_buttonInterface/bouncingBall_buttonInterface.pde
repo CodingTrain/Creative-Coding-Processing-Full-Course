@@ -1,4 +1,4 @@
-// Square button changes color
+// Button interface / bouncing ball
 // The Coding Train / Daniel Shiffman
 // Processing Intro Series
 
