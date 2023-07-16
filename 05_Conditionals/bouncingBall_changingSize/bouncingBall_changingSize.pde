@@ -11,8 +11,8 @@ void setup() {
   radius = 25;
   
   //Start at a random location!
-  x = random(radius, width); 
-  y = random(radius, height);
+  x = random(radius, width-radius); 
+  y = random(radius, height-radius);
 }
 
 void draw() {
