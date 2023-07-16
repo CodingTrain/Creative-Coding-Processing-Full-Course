@@ -14,8 +14,11 @@ void draw() {
   background(0);
   stroke(255);
   strokeWeight(4);
-
+  
+  //Check the distance of the mouse from center of circle
   float distance = dist(mouseX, mouseY, xpos, ypos);
+  
+  //If mouse is within circle, fill white
   if (distance < radius) {
     fill(255);
   } else {
