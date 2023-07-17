@@ -3,6 +3,11 @@
 // Processing Intro Series
 float[] fruitInventory = new float[5];
 String[] fruitNames = {"mango", "strawberry", "kiwi", "plum", "blueberry"};
+
+/*Another way to represent colors instead of RGB, is by using 
+  hexidecimal notation (ex: #FFFFFF is the color white). Many
+  color palettes found online use hex codes to denote colors. 
+  You can convert RGB to Hex or vice versa using online tools. */ 
 color[] colorArray = new int[]{#D9A407, #EE0E00, #3CB03E, #4B2473, #4188FF};
 
 void setup() {
