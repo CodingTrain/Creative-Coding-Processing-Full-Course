@@ -22,7 +22,7 @@ void mousePressed() {
   }
 
   if (index >= fruitInventory.length-1 || index <= 0) {
-    goForward = !goForward;
+    goForward = !goForward; //reverse the direction
   }
 }
 
@@ -30,12 +30,16 @@ void draw() {
   background(0);
   stroke(255);
   strokeWeight(24);
-  strokeCap(SQUARE);
-  line(width/2, height/2, width/2, height/2 - fruitInventory[index]);
+  strokeCap(SQUARE); //Line has squared end, not rounded
+  
+  //line height is number of fruit inventory 
+  line(width/2, height/2, width/2, height/2 - fruitInventory[index]); 
 
   textAlign(CENTER);
   textSize(64);
   fill(255);
   text(fruitNames[index], width/2, height/2 + 64);
+  
+  //Using '+' lets you add (concatenate) strings or strings and variables
   text("index = " + index, width/2, height/2 + 64*2);
 }
