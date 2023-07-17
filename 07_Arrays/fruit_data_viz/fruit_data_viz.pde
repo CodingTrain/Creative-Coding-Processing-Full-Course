@@ -41,7 +41,7 @@ void draw() {
      which means the random values we assign will be decimal
      numbers, but if I want to display a whole number I can use
      int() to convert a float to an integer. See what happens
-     when you remove it!*/
+     when you remove int()!*/
     text(int(fruitInventory[i]), x, height/2 - fruitInventory[i] - 24/2); //display number of each fruit
     
     sum += fruitInventory[i]; //add the value of the inventory each time through the loop
