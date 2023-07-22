@@ -45,8 +45,12 @@ void draw() {
 
 float easeIn(float num) {
   /*"Easing functions specify the rate of change of a parameter over time.
-     Objects in real life don’t just start and stop instantly, and almost never move at a constant speed."
-     Reference the following resource for more information about different easing functions: https://easings.net*/
+     Objects in real life don’t just start and stop instantly, and almost 
+     never move at a constant speed." Reference the following resource for 
+     more information about different easing functions: https://easings.net*/
+     
+  //num should be a number between 0 and 1. 
+  
   float easing = 0;
   if (num < 0.5) {
     easing = (1 - sqrt(1 - pow(2 * num, 2))) / 2;
