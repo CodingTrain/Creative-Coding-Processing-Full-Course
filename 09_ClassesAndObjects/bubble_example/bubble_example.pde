@@ -18,8 +18,10 @@ void draw() {
   
   //show and update bubbles
   bub1.update();
+  bub1.edges();
   bub1.show();
   
   bub2.update(); 
+  bub2.edges(); 
   bub2.show(); 
 }
