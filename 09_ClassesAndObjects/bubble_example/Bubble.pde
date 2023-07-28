@@ -2,7 +2,7 @@ class Bubble {
   float x, y, r;
   int bubCol;
   Bubble() {
-    x = 320;
+    x = random(width);
     y = 360;
     r = 64;
     bubCol = color(255, 192, 203); //bubble color
