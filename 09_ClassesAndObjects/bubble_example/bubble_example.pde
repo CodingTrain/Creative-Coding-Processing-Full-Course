@@ -21,7 +21,7 @@ void draw() {
   bub0.edges();
   bub0.show();
   
-  bub0.update(); 
-  bub0.edges(); 
-  bub0.show(); 
+  bub1.update(); 
+  bub1.edges(); 
+  bub1.show(); 
 }
