@@ -1,6 +1,6 @@
 class Flower {
   float x, y, size, maxSize;
-  int fillCol; //color of the flower
+  color fillCol; //color of the flower
   float winkCounter = 0; //keep track of how long wink is closed
   Flower(float _x, float _y) {
     x = _x;

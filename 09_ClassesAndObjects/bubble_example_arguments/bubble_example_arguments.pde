@@ -1,4 +1,4 @@
-// Bubble class
+// Two bubbles
 // The Coding Train / Daniel Shiffman
 // Processing Intro Series
 

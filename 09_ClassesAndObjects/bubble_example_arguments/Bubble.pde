@@ -1,6 +1,6 @@
 class Bubble {
   float x, y, r;
-  int bubCol;
+  color bubCol;
   Bubble(float _x, float _r) {
     x = _x;
     y = 360;

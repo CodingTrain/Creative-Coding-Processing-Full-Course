@@ -1,6 +1,6 @@
 class Bubble {
   float x, y, r;
-  int bubCol;
+  color bubCol;
   Bubble() {
     x = random(width);
     y = 360;
