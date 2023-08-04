@@ -9,7 +9,7 @@ float speed = 1; // speed of size changing
 
 void setup() {
   size(640, 360);
-  background(240);
+  background(0);
 }
 
 void draw() {
@@ -18,10 +18,8 @@ void draw() {
   fill(0, 0, 255 - circleSize);
 
 
-  if (circleSize >= maxSize || circleSize < minSize) {
-    //when circle reaches max size, start decreasing size
-    //when circle reaches min size, start increasing size
-    speed = speed*-1;
+  if (circleSize >= maxSize) {
+    circleSize = minSize;
   }
 
   //change the color based on circle size
