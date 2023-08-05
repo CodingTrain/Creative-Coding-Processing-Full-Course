@@ -8,6 +8,7 @@ float maxNum = 330; //max measurement
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
   measurement = selectNum();
 }
 
