@@ -7,6 +7,7 @@ Bubble bub1; //add second bubble
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
 
   //initialize bubbles
   bub0 = new Bubble();

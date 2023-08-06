@@ -3,9 +3,9 @@ class Bubble {
   color bubCol;
   Bubble() {
     x = random(width);
-    y = 360;
-    r = 64;
-    bubCol = color(255, 192, 203); //bubble color
+    y = height;
+    r = random(32, 128);
+    bubCol = color(random(100, 255), random(100, 200), 255); //bubble color
   }
 
   void update() {

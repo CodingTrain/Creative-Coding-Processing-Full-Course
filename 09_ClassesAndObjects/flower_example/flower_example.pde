@@ -11,6 +11,7 @@ Flower f;
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
 
   /*Use hue, saturation and brightness to specify
    color with a minimum value of 0 and maximum value of
@@ -24,22 +25,4 @@ void draw() {
   background(150, 30, 255);
   f.showFlower();
   f.update();
-}
-
-float easeIn(float num) {
-  /*"Easing functions specify the rate of change of a parameter over time.
-   Objects in real life don’t just start and stop instantly, and almost
-   never move at a constant speed." Reference the following resource for
-   more information about different easing functions: https://easings.net*/
-
-  //num should be a number between 0 and 1.
-
-  float easing = 0;
-  if (num < 0.5) {
-    easing = (1 - sqrt(1 - pow(2 * num, 2))) / 2;
-  } else {
-    easing = (sqrt(1 - pow(-2 * num + 2, 2)) + 1) / 2;
-  }
-
-  return easing;
 }
