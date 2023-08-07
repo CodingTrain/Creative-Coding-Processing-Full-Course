@@ -11,7 +11,7 @@ void setup() {
   circleX = width/2;
   circleY = 3*height/4;
   circleColor = 255;
-  background(0);
+  background(45, 197, 244);
 }
 
 void mousePressed() {
