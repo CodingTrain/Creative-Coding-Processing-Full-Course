@@ -13,11 +13,7 @@ boolean partyTime = false;
 
 void setup() {
   size(640, 360);
-
-  //initiate with 100 confetti
-  for (int i = 0; i < 100; i++) {
-    clusters.add(new Confetti()); 
-  } 
+  pixelDensity(2);
 }
 
 void mousePressed() {
@@ -25,16 +21,12 @@ void mousePressed() {
   
   //each time the mouse is pressed, add 100 more confetti
   for (int i = 0; i < 100; i++) {
-    clusters.add(new Confetti()); 
+    clusters.add(new Confetti(mouseX, mouseY)); 
   }  
-  
-  for (Confetti c : clusters) {
-    c.burst(mouseX, mouseY);
-  }
 }
 
 void draw() {
-  background(240);
+  background(255);
   if (partyTime) {
     for (Confetti c : clusters) {
       c.show();

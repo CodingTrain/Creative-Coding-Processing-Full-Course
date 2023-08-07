@@ -7,6 +7,7 @@ boolean partyTime = false;
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
 
   for (int i = 0; i < confetti.length; i++) {
     confetti[i] = new Confetti();
@@ -21,7 +22,7 @@ void mousePressed() {
 }
 
 void draw() {
-  background(240);
+  background(255);
   if (partyTime) {
     for (Confetti c : confetti) {
       c.show();
