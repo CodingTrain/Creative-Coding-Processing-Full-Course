@@ -3,7 +3,7 @@
 // Processing Intro Series
 
 // 1: Declare and 2: initialize the variable!
-float circleX, circleY, circleSize, circleColor;
+float circleX, circleY, circleSize;
 
 void setup() {
   size(640, 360);
