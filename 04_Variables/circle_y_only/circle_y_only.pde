@@ -26,6 +26,6 @@ void draw() {
   fill(255);
   circle(circleX, circleY, circleSize);
 
-  /*1: Gradually move circle up
+  /*1: Gradually move circle up*/
   circleY = circleY - 1;
 }
