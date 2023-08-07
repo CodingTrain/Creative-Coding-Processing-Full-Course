@@ -7,7 +7,7 @@ float circleX, circleY, circleSize, circleColor;
 
 void setup() {
   size(640, 360);
-  circleSize = 0; // initial circle size
+  circleSize = 48; // initial circle size
   circleX = width/2;
   circleY = 3*height/4;
   circleColor = 255;
@@ -23,16 +23,16 @@ void mousePressed() {
 }
 
 void draw() {
-  noStroke();
-  fill(circleColor, circleColor, 0); //circle color
+  background(0);
 
-  //Use the variables!
+  // Use the variables!
+  noStroke();
+  fill(255);
   circle(circleX, circleY, circleSize);
 
   /*1: Gradually move circle up while 2: circle increases in size and
    3: circleColor decreases to 0 (fade out)*/
   circleY = circleY - 1;
-  circleSize = circleSize + 1;
   circleColor = circleColor - 1;
 
   // Add a candle stick!
@@ -41,5 +41,5 @@ void draw() {
 
   /*Adding a 4th parameter in rect rounds the corners.
    Check out the reference page for more detail!*/
-  rect(width/2, height, 15, height/2, 5);
+  // rect(width/2, height, 15, height/2, 5);
 }

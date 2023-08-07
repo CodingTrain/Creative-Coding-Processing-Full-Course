@@ -8,15 +8,15 @@ void setup() {
 }
 
 void draw() {
-  //Random sky color
-  background(random(0, 50), random(0, 50), random(150, 255));
+  // Sky
+  background(50, 50, 250);
   rectMode(CORNER);
-  
-  //Random grass color
-  fill(random(0, 50), random(150, 255), random(0, 50)); 
+
+  // Grass
+  fill(25, 200, 25);
   rect(0, height / 2, width, height / 2); //Draw grass
-  
-  
+
+
   float x = width / 2;
   float y = height / 2;
   float w = random(150, 400);
@@ -25,12 +25,12 @@ void draw() {
   float sw = random(2, 4); //thickness of line
   strokeWeight(sw);
   stroke(0);
-  
+
   // House
   rectMode(CENTER);
   fill(random(100, 255), 0, random(100, 255));
   rect(x, y, w, w * r);
-  
+
   // Roof
   float randomHeight = random(h / 2 + 50, 200);
   fill(random(50, 255), random(0, 50), random(0, 50));
@@ -55,7 +55,6 @@ void draw() {
   rect(x, y + h / 4, h / 4, h / 2 - sw * 2);
   fill(random(0, 50), random(0, 50), random(0, 50));
   circle(x - h / 24, y + h / 4, h / 12);
-
 }
 
 void mousePressed() {
