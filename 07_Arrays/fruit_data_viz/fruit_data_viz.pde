@@ -33,7 +33,6 @@ void draw() {
   textAlign(CENTER);
   textSize(24);
 
-  float sum = 0;
   for (int i = 0; i < fruitInventory.length; i++) {
     fill(colorArray[i]);
     rectMode(CORNER);
@@ -57,8 +56,6 @@ void draw() {
      int() to convert a float to an integer. See what happens
      when you remove int()!*/
     text("qty: " + int(fruitInventory[i]), x, height/2 + 48); //display number of each fruit
-
-    sum += fruitInventory[i]; //add the value of the inventory each time through the loop
   }
 
   fill(240);
