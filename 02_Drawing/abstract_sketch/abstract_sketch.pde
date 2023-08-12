@@ -4,7 +4,7 @@
 
 size(640, 360); //canvas size
 
-background(240); //set background color
+background(255); //set background color
 noFill(); // don't fill the shapes
 strokeWeight(50); //line thickness
 
