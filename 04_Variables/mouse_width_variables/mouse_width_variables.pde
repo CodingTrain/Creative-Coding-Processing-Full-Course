@@ -6,7 +6,7 @@ void setup(){
 }
 
 void draw(){
-  background(240); 
+  background(255); 
   line(mouseX, 0, mouseX, height); // vertical line
   line(0, mouseY, width, mouseY); // horizontal line
 }
