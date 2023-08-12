@@ -6,7 +6,7 @@ float r, g, b;
 
 void setup() {
   size(640, 320);
-  background(240);
+  background(255);
   
   r = 255;
   g = 250;
@@ -20,7 +20,7 @@ void draw() {
 }
 
 void mousePressed() {
-  // background(240);
+  // background(255);
   r = random(255);
   g = random(255); 
   b = random(255); 
