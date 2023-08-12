@@ -17,7 +17,7 @@ void setup() {
 }
 
 void draw() {
-  background(240);
+  background(255);
   noStroke();
 
   float size = 100;
