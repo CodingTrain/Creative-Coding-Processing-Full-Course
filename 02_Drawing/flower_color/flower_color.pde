@@ -4,7 +4,7 @@
 
 size(640, 360); //canvas size
 
-background(240); //set background color
+background(255); //set background color
 
 stroke(0, 128, 0); // stem color
 strokeWeight(10); //thickness of line
