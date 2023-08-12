@@ -2,8 +2,8 @@
 // The Coding Train / Daniel Shiffman
 // Processing Intro Series
 
-float measurement, footLength, meterLength;
-float minNum = 20; //min measurement
+float measurement, fahrenheit, celsius;
+float minNum = 32; //min measurement
 float maxNum = 330; //max measurement
 
 void setup() {
@@ -17,22 +17,22 @@ void mousePressed() {
 }
 
 void draw() {
-  background(240);
+  background(255);
   //Position of lines
   float x1 = width/6;
   float x2 = width - width/6;
-  float footLineY = height/4; //top line
-  float meterLineY = height - height/4; //bottom line
+  float fLine = height/4; //top line (fahrenheit)
+  float cLine = height - height/4; //bottom line (celsius)
 
   strokeWeight(80);
   /*blendMode() blends the pixels in the display window according to a defined mode.
    blendMode(BLEND) is the default. */
 
-  //Gray lines
+  //Gray background lines
   blendMode(BLEND);
   stroke(230);
-  line(x1, footLineY, x2, footLineY);
-  line(x1, meterLineY, x2, meterLineY);
+  line(x1, fLine, x2, fLine);
+  line(x1, cLine, x2, cLine);
 
   //Black lines (update with every new measurement)
   stroke(0);
@@ -41,16 +41,15 @@ void draw() {
    It is convenient for creating motion along a straight path.
    Try un-commenting the alternative to see how the line length changes from
    a gradual motion to instantaneous update.*/
-  footLength = lerp(footLength, measurement, 0.05);
-  meterLength = lerp(meterLength, footToMeter(measurement), 0.05);
+  fahrenheit = lerp(fahrenheit, measurement, 0.05);
+  celsius = lerp(celsius, fahrenheitToCelsius(measurement), 0.05);
 
   //----ALTERNATIVE-----
-  //footLength = measurement;
-  //meterLength = footToMeter(measurement);
+  //fahrenheit = measurement;
+  //celsius = fahrenheitToCelsius(measurement);
 
-  line(x1, footLineY, x1 + footLength, footLineY);
-  line(x1, meterLineY, x1 + meterLength, meterLineY);
-
+  line(x1, fLine, x1 + fahrenheit, fLine);
+  line(x1, cLine, x1 + celsius, cLine);
 
 
   textSize(14);
@@ -61,16 +60,15 @@ void draw() {
   blendMode(DIFFERENCE);
   textAlign(CENTER, CENTER);
 
-  //Use the round() function to round to the nearest foot/meter.
-  text(round(footToMeter(measurement)) + " METERS", width/2, meterLineY);
-  text(round(measurement) + " FEET", width/2, footLineY);
-  text("FOR APPROXIMATE LENGTH, DIVIDE BY 3.281", width/2, height/2);
+  //Use the round() function to round to the nearest degree.
+  text(round(fahrenheitToCelsius(measurement)) + "° CELSIUS", width/2, cLine);
+  text(round(measurement) + "° FAHRENHEIT", width/2, fLine);
 }
 
 float selectNum() {
   return (random(minNum, maxNum));
 }
 
-float footToMeter(float ft) {
-  return ft/3.281;
+float fahrenheitToCelsius(float degF) {
+  return (degF - 31) * 5/9 ;
 }
