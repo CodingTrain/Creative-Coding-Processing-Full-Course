@@ -4,7 +4,7 @@
 
 size(640, 360); //canvas size
 
-background(240); //set background color
+background(0); //set background color
 
 stroke(0); //black outline
 rect(320-5, 180, 10, 320); 
