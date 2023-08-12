@@ -1,9 +1,8 @@
-// Rainbow, Unicorn, Puppy Functions
+// Rainbow, Unicorn, Cupcake, Puppy Functions
 // The Coding Train / Daniel Shiffman
 // Processing Intro Series
 
-color[] rainbowColors = new int[]{#9A56FF, #527AF2, #F2B807, #F28907, #F2220F};
-
+color[] rainbowColors = new color[]{color(154, 86, 255), color(82, 122, 242), color(242, 184, 7), color(242, 137, 7), color(242, 34, 15)};
 
 void setup() {
   size(640, 360);
@@ -15,9 +14,34 @@ void setup() {
 void draw() {
   background(150, 30, 255);
   rainbow();
+  cupcake();
   puppy();
   unicorn();
   noLoop();
+}
+
+void cupcake() {
+  float sw = 3; //strokeWeight
+  float posX = width/2;
+  float posY = height/2;
+  stroke(0);
+  strokeWeight(sw);
+  
+  //cherry
+  fill(0, 255, 255);
+  circle(posX, posY-100, 50);
+  
+  //frosting
+  fill(0, 80, 255);
+  rect(posX, posY-50, 120, 50, 50);
+  rect(posX, posY, 150, 50, 50);
+  
+  //cup
+  fill(40, 100, 255);
+  rect(posX, posY+100, 200, 150, 10);
+  for (int i = 0; i < 5; i++) {
+    line(posX - 70 + 35 * i, posY + 50, posX - 70 + 35 * i, posY + 150);
+  }
 }
 
 void rainbow() {
@@ -33,7 +57,7 @@ void rainbow() {
 
 void unicorn() {
   float sw = 3; //strokeWeight
-  float posX = width/2 - 110;
+  float posX = width/2 - 180;
   float posY = height/2 + 50;
   stroke(0);
   strokeWeight(sw);
@@ -69,7 +93,7 @@ void unicorn() {
 
 void puppy() {
   float sw = 3;
-  float posX = width/2 + 110;
+  float posX = width/2 + 200;
   float posY = height/2 + 50;
   stroke(0);
   strokeWeight(sw);
