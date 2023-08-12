@@ -2,11 +2,11 @@ class Flower {
   float x, y, size, maxSize;
   color fillCol; //color of the flower
   float winkCounter = 0; //keep track of how long wink is closed
+
   Flower(float _x, float _y) {
     x = _x;
     y = _y;
-    size = 50;
-    maxSize = 475;
+    maxSize = 50;
     fillCol = rainbowColors[int(random(rainbowColors.length))]; //pick a random color from the array
   }
 
@@ -16,11 +16,10 @@ class Flower {
   }
 
   void update() {
-    //oscillate the size of the flower
-    size = 10 + size*easeIn(abs(sin(radians(frameCount))));
-
-    if (size < maxSize) {
-      //reset the wink counter when the flower decreases below maxSize
+    // oscillate the size of the flower
+    size = 200 + 100 * cos(radians(frameCount));
+    winkCounter++;
+    if (winkCounter > 360) {
       winkCounter = 0;
     }
   }
@@ -47,8 +46,7 @@ class Flower {
     fill(255);
     stroke(255);
     strokeWeight(size/35);
-    if (size > maxSize && winkCounter < 10) {
-      winkCounter++;
+    if (winkCounter < 10) {
       line(x - size/4 - size/20, y, x - size/4 + size/20, y); //wink
     } else {
       circle(x - size/4, y, size/10); //left eye
