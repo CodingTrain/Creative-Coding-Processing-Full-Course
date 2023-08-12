@@ -3,7 +3,7 @@
 // Processing Intro Series
 void setup(){
   size(640, 320); 
-  background(240); 
+  background(255); 
 }
 
 void draw(){
@@ -17,5 +17,5 @@ void draw(){
 }
 
 void mousePressed(){
- background(240);  
+ background(255);  
 }
