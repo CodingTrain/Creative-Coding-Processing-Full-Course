@@ -15,7 +15,6 @@ void setup() {
 void draw() {
   background(150, 30, 255);
   rainbow();
-  puppy();
   unicorn();
   noLoop();
 }
@@ -37,12 +36,12 @@ void unicorn() {
   float posY = height/2 + 50;
   stroke(0);
   strokeWeight(sw);
-  float triSize = 50; //size of triangle
+  float triSize = 50; //size of triangle 
   //pick a random horn color
   fill(rainbowColors[int(random(rainbowColors.length))]);
   triangle(posX - triSize/2, posY - 100, posX + triSize, posY - 90, posX+triSize/2, posY -100 - triSize*2);
-
-  //unicorn "mane"
+  
+  //unicorn "mane" 
   for (int i = 0; i < 7; i++) {
     fill(130, 100, 255);
     circle((posX - 40) - 10*i, posY - 50 + 40*i, 100);
@@ -56,12 +55,12 @@ void unicorn() {
   fill(0, 120, 255);
   ellipse(posX, posY+60, 150, 110);
 
-  // nostrils
+  // nostrils 
   fill(0, 50, 255);
   ellipse(posX + 10, posY + 60, 10, 10);
   ellipse(posX - 10, posY + 60, 10, 10);
 
-  //eyes
+  //eyes 
   fill(0);
   ellipse(posX, posY - 50, 5, 5);
   ellipse(posX + 10, posY - 50, 8, 8);
@@ -81,12 +80,12 @@ void puppy() {
     circle((posX - 50) - 10*i, posY - 55 + 40*i, 100);
     circle((posX + 50) + 10*i, posY - 55 + 40*i, 100);
   }
-
+  
   //head
   stroke(0);
   fill(15, 75, 200);
   rect(posX, posY, 150, 215, 100);
-
+  
   //nose
   fill(35, 75, 255);
   ellipse(posX, posY+60, 150, 110);
