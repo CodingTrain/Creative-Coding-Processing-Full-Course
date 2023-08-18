@@ -5,6 +5,7 @@
 float x, y, xspeed, yspeed, radius;
 void setup() {
   size(640, 360);
+  pixelDensity(2); 
   xspeed = 2;
   yspeed = 2;
   radius = 25;
