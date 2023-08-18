@@ -4,6 +4,7 @@
 
 void setup() {
   size(640, 320);
+  pixelDensity(2); 
   background(255);
 }
 
