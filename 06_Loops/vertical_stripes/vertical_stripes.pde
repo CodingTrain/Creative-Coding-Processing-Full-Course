@@ -6,6 +6,7 @@ float w = 20;
 
 void setup() {
   size(640, 360);
+  pixelDensity(2); 
 }
 
 void draw() {
