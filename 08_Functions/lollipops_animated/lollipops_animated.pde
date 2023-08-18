@@ -10,6 +10,7 @@ color[] rainbowColors = new int[]{#9A56FF, #527AF2, #F2B807, #F28907, #F2220F};
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
   
   /*Use hue, saturation and brightness to specify
   color with a minimum value of 0 and maximum value of 
