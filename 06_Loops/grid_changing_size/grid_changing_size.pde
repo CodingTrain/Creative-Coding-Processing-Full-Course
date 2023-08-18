@@ -7,6 +7,7 @@ float maxSpacing, minSpacing;
 float theta = 0; 
 void setup() {
   size(640, 360);
+  pixelDensity(2); 
   maxSpacing = 80; 
   minSpacing = 30; 
 }
