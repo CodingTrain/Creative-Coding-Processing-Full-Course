@@ -3,6 +3,7 @@
 // Processing Intro Series
 
 size(640, 360); //canvas size
+pixelDensity(2); 
 
 background(255); //set background color
 
@@ -35,3 +36,4 @@ circle(320 - 30 - 10, 180 - 35, 10);
 //mouth
 noFill();
 arc(320, 180+10, 25, 25, 0, PI);
+
