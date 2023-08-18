@@ -3,6 +3,7 @@
 // Processing Intro Series
 
 size(640, 360); //canvas size
+pixelDensity(2);
 
 background(255); //set background color
 noFill(); // don't fill the shapes
