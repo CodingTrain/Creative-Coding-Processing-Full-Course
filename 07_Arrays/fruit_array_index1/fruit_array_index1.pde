@@ -7,6 +7,7 @@ int index = 0;
 
 void setup() {
   size(640, 360);
+  pixelDensity(2); 
 }
 
 void mousePressed() {
