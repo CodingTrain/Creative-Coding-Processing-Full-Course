@@ -9,6 +9,7 @@ float speed = 1; // speed of size changing
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
   background(240);
 }
 
