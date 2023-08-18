@@ -4,6 +4,7 @@
 
 void setup() {
   size(640, 460);
+  pixelDensity(2); 
   frameRate(5); //sketch will refresh 5 times per second
 }
 
