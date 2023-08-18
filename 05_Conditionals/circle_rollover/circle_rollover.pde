@@ -5,6 +5,7 @@
 float xpos, ypos, radius;
 void setup() {
   size(640, 360);
+  pixelDensity(2);
   xpos = width/2;
   ypos = height/2;
   radius = 100;
