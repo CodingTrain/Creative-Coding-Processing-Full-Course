@@ -5,6 +5,7 @@
 float x, y, xspeed, yspeed, radius, rspeed;
 void setup() {
   size(640, 360);
+  pixelDensity(2); 
   xspeed = 2;
   yspeed = 2;
   rspeed = 0.50; // speed at which radius changes
