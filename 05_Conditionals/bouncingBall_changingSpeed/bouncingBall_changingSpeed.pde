@@ -7,6 +7,7 @@ int maxSpeed = 10;
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
   xspeed = 5;
   yspeed = 5;
   radius = 25;
