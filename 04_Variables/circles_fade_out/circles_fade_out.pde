@@ -7,6 +7,7 @@ float circleX, circleY, circleSize, circleColor;
 float b = 0; //blue value
 void setup() {
   size(640, 360);
+  pixelDensity(2); 
   circleSize = 100; // initial circle size
   circleX = 0;
   circleY = height/2;
