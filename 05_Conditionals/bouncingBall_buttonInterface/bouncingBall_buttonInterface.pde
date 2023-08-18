@@ -17,6 +17,7 @@ boolean overRadiusButton = false;
 
 void setup() {
   size(640, 360);
+  pixelDensity(2);
   rectMode(CENTER);
 
   //Text properties
