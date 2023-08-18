@@ -3,6 +3,7 @@
 // Processing Intro Series
 void setup(){
   size(640, 320); 
+  pixelDensity(2);
 }
 
 void draw(){
