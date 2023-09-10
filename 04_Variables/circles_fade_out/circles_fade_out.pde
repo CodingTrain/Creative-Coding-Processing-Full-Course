@@ -3,14 +3,25 @@
 // Processing Intro Series
 
 // 1: Declare and 2: initialize the variable!
-float circleX, circleY, circleSize, circleColor;
-float b = 0; //blue value
+float circle1_x, circle1_y, circle2_x, circle2_y, circle3_x, circle3_y;
+float circleSize, circleColor;
+float bright1 = 0; //brightness value
+float bright2 = 0; //brightness value
+float bright3 = 0; //brightness value
+
 void setup() {
   size(640, 360);
   pixelDensity(2); 
-  circleSize = 100; // initial circle size
-  circleX = 0;
-  circleY = height/2;
+  circleSize = 100; // circle size
+  
+  circle1_x = 320;
+  circle1_y = 90;
+  
+  circle2_x = 120;
+  circle2_y = 160;
+  
+  circle3_x = 550;
+  circle3_y = 220;
   background(45, 197, 244);
   
 }
@@ -21,29 +32,18 @@ void draw() {
   noStroke();
 
   //Use the variables!
-  fill(252, 238, b); //circle color
-  circle(circleX+20, circleY, circleSize);
+  fill(bright1); //circle color/brightness
+  circle(circle1_x, circle1_y, circleSize);
 
-  //offset the color of each circle
-  fill(252, 238, b - 100); 
-  circle(circleX + 120, circleY, circleSize);
+  fill(bright2); 
+  circle(circle2_x, circle2_y, circleSize);
 
-  fill(252, 238, b - 200); 
-  circle(circleX + 220, circleY, circleSize);
+  fill(bright3); 
+  circle(circle3_x, circle3_y, circleSize);
 
-  fill(252, 238, b - 300); 
-  circle(circleX + 320, circleY, circleSize);
-
-  fill(252, 238, b - 400); 
-  circle(circleX + 420, circleY, circleSize);
-
-  fill(252, 238, b - 500); 
-  circle(circleX + 520, circleY, circleSize);
-
-  fill(252, 238, b - 600); 
-  circle(circleX + 620, circleY, circleSize);
-  
-  //increse blue value so color approaches white (255, 255, 255)
-  b = b + 7;
+  //increase brightness values
+  bright1 = bright1 + 8;
+  bright2 = bright2 + 4;
+  bright3 = bright3 + 3;
 
 }
