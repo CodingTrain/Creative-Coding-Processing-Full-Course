@@ -103,7 +103,7 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Passenger Showcase Submission Form](https://thecodingtrain.com/guides/passenger-showcase-guide#submission-form)
 * [Commodore 64 image](https://interface-experience.org/site/wp-content/uploads/2015/01/IE-008KKEDIT.jpg)
 
-### Coding Examples  
+### Code Examples  
 * [Checkerboard](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/checkerboard/checkerboard.pde)
 * [Concentric circles](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/concentric_circles/concentric_circles.pde)
 * [Grid changing size](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/grid_changing_size/grid_changing_size.pde)
@@ -131,3 +131,16 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Lollipops animated](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/lollipops_animated/lollipops_animated.pde)
 * [Rainbow, unicorn, puppy](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/rainbow_unicorn_puppy/rainbow_unicorn_puppy.pde)
 * [Unicorn only](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/unicorn_only/unicorn_only.pde)
+
+## Classes and Objects [0:00]  
+### Reference  
+* [Distance reference page](https://processing.org/reference/dist_.html)
+* [Pixel array video](https://www.youtube.com/watch?v=EmtU0eloTlE&t=768s&ab_channel=TheCodingTrain)
+
+### Code Examples  
+* [Bubble](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubble_example)
+* [Bubble with arguments](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubble_example_arguments)
+* [Bubble mouse interaction](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubble_mouse_interaction)
+* [Bubbles and rain](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubbles_and_rain)
+* [Bubbles and rain pop](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubbles_and_rain_pop)
+* [Flower class](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/flower_example)
