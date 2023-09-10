@@ -4,10 +4,9 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 ## Introduction [0:00]  
 * [Processing Website](https://processing.org/)  
 * [Link to Dan's first Processing Forum post](https://forum.processing.org/beta/num_1113961700_30.html)   
-* [Learning Processing image][TBD]  
-* [Nature of Code image][TBD]  
 * [Introduction to Computation Media Syllabus](https://web.archive.org/web/20120708035400/http://itp.nyu.edu/varwiki/Syllabus/ICM-Daniel-Shiffman-F11)  
-* [Processing Download](https://processing.org/download)  
+* [Processing Download](https://processing.org/download)
+* [Nature of Code](https://natureofcode.com/)
 * [ITP Website](https://itp.nyu.edu/itp/)  
 * [Lingo bouncing ball code example image](https://www.globalnerdy.com/wp-content/uploads/2020/06/Untitled-11.fw_.png)  
 * [Macromedia Director launch image](https://www.macintoshrepository.org/_resize.php?w=640&h=480&bg_color=333333&imgenc=ZmlsZ2f5XMvbWcvc2l0ZXMvbWcvZmlsZXMvc2NyZWVuc2hvdHMvYWJvdXRfZGlyZWN0b3JfbXgucG5nfHd3dy5tYWNpbnRvc2hyZXBvc2l0b3J5Lm9yZy8yNjQzNC1tYWNyb21lZGlhLWRpcmVjdG9yLW14)  
@@ -38,7 +37,26 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Nebula Website](https://nebula.tv/)
 * [The Coding Train Website](https://thecodingtrain.com/)
 * [The Coding Train Discord](https://discord.com/invite/ZHydDC8sXN)
-* 
+* [Processing Forum](https://discourse.processing.org/)
+
+## Drawing with Code [0:00]  
+### Reference  
+* [Rectangle reference page](https://processing.org/reference/rect_.html)
+* [Triangle reference page](https://processing.org/reference/triangle_.html)
+* [Quad reference page](https://processing.org/reference/quad_.html)
+* [Arc reference page](https://processing.org/reference/arc_.html)
+* [Programming Design Systems Website](https://programmingdesignsystems.com/)
+
+### Code Examples
+* [Abstract](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/abstract_sketch/abstract_sketch.pde)
+* [Alien](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/alien/alien.pde)
+* [Alien with Color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/alien_color/alien_color.pde)
+* [Flower](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/flower/flower.pde)
+* [Flower with Color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/flower_color/flower_color.pde)
+* [Self Portrait](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/self_portrait/self_portrait.pde)
+* [Spaceship](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship/spaceship.pde)
+* [Spaceship with Color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship_color/spaceship_color.pde)
+
 
 ## References
 
