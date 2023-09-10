@@ -57,7 +57,7 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Spaceship](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship/spaceship.pde)
 * [Spaceship with Color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship_color/spaceship_color.pde)
 
-## Flow  
+## Flow [0:00]  
 ### Reference  
 * [Space Invaders Clip](https://www.youtube.com/watch?v=uGjgxwiemms&ab_channel=Senboza)
 
@@ -65,5 +65,15 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Alien Antennas](https://github.com/CodingTrain/Learning-Processing-4/blob/main/03_Flow/alien_antennas/alien_antennas.pde)
 * [Alien Frown](https://github.com/CodingTrain/Learning-Processing-4/blob/main/03_Flow/alien_frown/alien_frown.pde)
 
-
+## Variables [0:00]  
+### Code Examples  
+* [Circle Grow](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/circle_grow/circle_grow.pde)
+* [Circle y only](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/circle_y_only/circle_y_only.pde)
+* [Circles fade out](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/circles_fade_out/circles_fade_out.pde)
+* [Mouse with variables](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/mouse_width_variables/mouse_width_variables.pde)
+* [Paintbrush mouse random](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/paintbrush_mouse_random/paintbrush_mouse_random.pde)
+* [Paintbrush plain](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/paintbrush_plain/paintbrush_plain.pde)
+* [Paintbrush random](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/paintbrush_random/paintbrush_random.pde)
+* [Random house](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/random_house/random_house.pde)
+* [Random lines](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/random_lines/random_lines.pde)
 
