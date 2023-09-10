@@ -110,3 +110,16 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Grid circles](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/grid_circles/grid_circles.pde)
 * [Horizontal stripes](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/horizontal_stripes/horizontal_stripes.pde)
 * [Vertical stripes](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/vertical_stripes/vertical_stripes.pde)
+
+## Arrays [0:00]  
+### Reference  
+* [Text reference page](https://processing.org/reference/text_.html)
+* [Stroke cap reference page](https://processing.org/reference/strokeCap_.html)
+
+### Code Examples  
+* [Color palette array](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/color_palette_array/color_palette_array.pde)
+* [Fruit array index 1](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_array_index1/fruit_array_index1.pde)
+* [Fruit array index 2](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_array_index2/fruit_array_index2.pde)
+* [Fruit data visualization](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz/fruit_data_viz.pde)
+* [Fuit data viz average](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz_average/fruit_data_viz_average.pde)
+* [Fruit data viz sum](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz_sum/fruit_data_viz_sum.pde)
