@@ -1,4 +1,4 @@
-# Creative Coding with Processing-4: Your Journey Begins Here
+# Creative Coding with Processing-4
 Welcome aboard to the world of creative coding! Join me in this beginner-friendly video series as we embark on an exciting adventure with Processing, a versatile and artist-friendly programming language and environment. Whether you're an absolute beginner or a seasoned coder, my goal is to inspire and empower you to unleash your creativity through coding. Processing is your gateway to making art, animations, and interactive experiences. No prior experience is required—just curiosity and a desire to create! 
 
 ## Introduction [0:00]  
@@ -145,7 +145,7 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Bubbles and rain pop](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubbles_and_rain_pop)
 * [Flower class](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/flower_example)
 
-## Confetti Project  
+## Confetti Project [0:00]  
 ### Reference  
 * [Coding challenges](https://thecodingtrain.com/challenges)
 * [Nature of Code (Processing)](https://www.youtube.com/watch?v=6vX8wT1G798&list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&ab_channel=TheCodingTrain)
@@ -155,3 +155,17 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Confetti party](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party)
 * [Confetti party arrayList](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party_ArrayList)
 * [Confetti party rotate](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party_rotate)
+
+## Conclusion [0:00]  
+### Reference  
+* [Images and Pixels (Processing playlist)](https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9&ab_channel=TheCodingTrain)
+* [3D Renderer coding challenge](https://www.youtube.com/watch?v=IKB1hWWedMk&ab_channel=TheCodingTrain)
+* [Transformations](https://www.youtube.com/watch?v=o9sgjuh-CBM&ab_channel=TheCodingTrain)
+* [Text and Data](https://www.youtube.com/watch?v=NLzne4XaR3M&list=PLRqwX-V7Uu6Y4F21kqaFLk6oGW2I5o7FY&ab_channel=TheCodingTrain)
+* [Data and API's](https://www.youtube.com/watch?v=DbcLg8nRWEg&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&ab_channel=TheCodingTrain)
+* [Loading and playing with sound (p5.js](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&ab_channel=TheCodingTrain)
+* [Capture and live video](https://www.youtube.com/watch?v=WH31daSj4nc&list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8&ab_channel=TheCodingTrain)
+* [Physics engine](https://www.youtube.com/watch?v=wB1pcXtEwIs&list=PLRqwX-V7Uu6akvoNKE4GAxf6ZeBYoJ4uh&ab_channel=TheCodingTrain)
+* [The Coding Train Discord](https://discord.gg/brgTTY3C)
+* [Twitter](https://twitter.com/thecodingtrain)
+* [Instagram](https://www.instagram.com/the.coding.train/)
