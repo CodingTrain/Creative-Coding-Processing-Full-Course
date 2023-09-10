@@ -93,5 +93,20 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Circle rollover](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/circle_rollover/circle_rollover.pde)
 * [Four sections](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/four_sections/four_sections.pde)
 * [Paintbrush conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/paintbrush_conditional/paintbrush_conditional.pde)
-* [Rows conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/rows_conditional/rows_conditional.pde)  
+* [Rows conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/rows_conditional/rows_conditional.pde)
 
+## Loops [0:00]  
+### Reference  
+* [C64 running 10PRINT](https://www.youtube.com/watch?v=m9joBLOZVEo&ab_channel=ThomasWinningham)
+* [10PRINT Website](https://10print.org/)
+* [10PRINT Coding Challenge and Passenger Showcase](https://thecodingtrain.com/challenges/76-10Print)
+* [Passenger Showcase Submission Form](https://thecodingtrain.com/guides/passenger-showcase-guide#submission-form)
+* [Commodore 64 image](https://interface-experience.org/site/wp-content/uploads/2015/01/IE-008KKEDIT.jpg)
+
+### Coding Examples  
+* [Checkerboard](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/checkerboard/checkerboard.pde)
+* [Concentric circles](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/concentric_circles/concentric_circles.pde)
+* [Grid changing size](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/grid_changing_size/grid_changing_size.pde)
+* [Grid circles](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/grid_circles/grid_circles.pde)
+* [Horizontal stripes](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/horizontal_stripes/horizontal_stripes.pde)
+* [Vertical stripes](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/vertical_stripes/vertical_stripes.pde)
