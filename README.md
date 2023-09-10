@@ -144,3 +144,14 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Bubbles and rain](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubbles_and_rain)
 * [Bubbles and rain pop](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubbles_and_rain_pop)
 * [Flower class](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/flower_example)
+
+## Confetti Project  
+### Reference  
+* [Coding challenges](https://thecodingtrain.com/challenges)
+* [Nature of Code (Processing)](https://www.youtube.com/watch?v=6vX8wT1G798&list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK&ab_channel=TheCodingTrain)
+* [Nature of Code (p5.js)](https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&ab_channel=TheCodingTrain)
+
+### Code Examples  
+* [Confetti party](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party)
+* [Confetti party arrayList](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party_ArrayList)
+* [Confetti party rotate](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party_rotate)
