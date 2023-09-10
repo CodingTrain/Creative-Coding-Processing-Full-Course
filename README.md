@@ -123,3 +123,11 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Fruit data visualization](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz/fruit_data_viz.pde)
 * [Fuit data viz average](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz_average/fruit_data_viz_average.pde)
 * [Fruit data viz sum](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz_sum/fruit_data_viz_sum.pde)
+
+## Functions [0:00]  
+### Code Examples  
+* [Conversion function](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/conversion_function/conversion_function.pde)
+* [Lollipops](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/lollipops/lollipops.pde)
+* [Lollipops animated](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/lollipops_animated/lollipops_animated.pde)
+* [Rainbow, unicorn, puppy](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/rainbow_unicorn_puppy/rainbow_unicorn_puppy.pde)
+* [Unicorn only](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/unicorn_only/unicorn_only.pde)
