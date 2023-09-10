@@ -77,3 +77,21 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Random house](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/random_house/random_house.pde)
 * [Random lines](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/random_lines/random_lines.pde)
 
+## Conditionals [0:00]  
+### Reference  
+* [Distance reference page](https://processing.org/reference/dist_.html)
+* [Bouncing DVD logo](https://www.bouncingdvdlogo.com/)
+* [Mouse press reference page](https://processing.org/reference/mousePressed_.html)
+
+### Code Examples  
+* [Ball turn around](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/ball_turn_around/ball_turn_around.pde)
+* [Bouncing ball button interface](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/bouncingBall_buttonInterface/bouncingBall_buttonInterface.pde)
+* [Bouncing ball changing color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/bouncingBall_changingColor/bouncingBall_changingColor.pde)
+* [Bouncing ball changing size](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/bouncingBall_changingSize/bouncingBall_changingSize.pde)
+* [Bouncing ball changing speed](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/bouncingBall_changingSpeed/bouncingBall_changingSpeed.pde)
+* [Bouncing ball gravity](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/bouncingBall_gravity/bouncingBall_gravity.pde)
+* [Circle rollover](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/circle_rollover/circle_rollover.pde)
+* [Four sections](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/four_sections/four_sections.pde)
+* [Paintbrush conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/paintbrush_conditional/paintbrush_conditional.pde)
+* [Rows conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/rows_conditional/rows_conditional.pde)  
+
