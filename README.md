@@ -57,7 +57,13 @@ Welcome aboard to the world of creative coding! Join me in this beginner-friendl
 * [Spaceship](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship/spaceship.pde)
 * [Spaceship with Color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship_color/spaceship_color.pde)
 
+## Flow  
+### Reference  
+* [Space Invaders Clip](https://www.youtube.com/watch?v=uGjgxwiemms&ab_channel=Senboza)
 
-## References
+### Code Examples  
+* [Alien Antennas](https://github.com/CodingTrain/Learning-Processing-4/blob/main/03_Flow/alien_antennas/alien_antennas.pde)
+* [Alien Frown](https://github.com/CodingTrain/Learning-Processing-4/blob/main/03_Flow/alien_frown/alien_frown.pde)
 
-## Credits
+
+
