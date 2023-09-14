@@ -6,7 +6,10 @@ Choo choo! Welcome aboard to the world of creative coding! Join me in this begin
 
 Below, you'll find a detailed itinerary that includes links to all of the coding destinations: code examples, interactive exercises, and other reference material. Found a mechanical issue? Open an issue in this repo or call the conductor at [help@thecodingtrain.com](mailto:help@thecodingtrain.com).
 
-For passengers looking to chat in the cafe car, [hop onto the Discord](https://thecodingtrain.com/discord). There's always room for one more on the Coding Train!
+For passengers looking to chat in the cafe car, [hop onto the Discord](https://thecodingtrain.com/discord). There's always room for one more on the Coding Train!  
+
+## Watch on Nebula  
+This video can currently be watched on [here on Nebula](https://nebula.tv/videos/codingtrain-beginners-guide-to-creative-coding-with-processing-full-course)! Want to support The Coding Train and have access to even more coding adventures? Sign up for Nebula using [The Coding Train link](https://go.nebula.tv/codingtrain).
 
 ## Introduction [0:00]
 
