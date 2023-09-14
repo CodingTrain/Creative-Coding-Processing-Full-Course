@@ -2,7 +2,7 @@
 
 ![Video thumbnail with colorful text and characters: "Learing Processing"](img/video-thumb.jpg)
 
-Choo choo! Welcome aboard to the world of creative coding! Join me in this beginner-friendly video series and choo-choo-chose to embark on an exciting journey with Processing, a versatile and artist-friendly programming language and environment. Whether you're an absolute beginner or have some experience already, my goal is to inspire and empower you to unleash your creativity through coding. Processing is your gateway to making art, animations, and interactive experiences. No prior experience is required—just curiosity and a desire to create!
+Choo choo! Welcome aboard to the world of creative coding! Join me in this beginner-friendly video series and choo-choo-choose to embark on an exciting journey with Processing, a versatile and artist-friendly programming language and environment. Whether you're an absolute beginner or have some experience already, my goal is to inspire and empower you to unleash your creativity through coding. Processing is your gateway to making art, animations, and interactive experiences. No prior experience is required—just curiosity and a desire to create!
 
 Below, you'll find a detailed itinerary that includes links to all of the coding destinations: code examples, interactive exercises, and other reference material. Found a mechanical issue? Open an issue in this repo or call the conductor at [help@thecodingtrain.com](mailto:help@thecodingtrain.com).
 
