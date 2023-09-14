@@ -1,4 +1,4 @@
-# 🚂 Beginner's Guide to Creative Coding with Processing 4 🌈
+# 🚂 Beginner's Guide to Creative Coding with Processing 🌈
 
 ![Video thumbnail with colorful text and characters: "Learing Processing"](img/video-thumb.jpg)
 
