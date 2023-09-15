@@ -1,15 +1,16 @@
 # 🚂 Beginner's Guide to Creative Coding w/ Processing 🌈
 
-![Video thumbnail with colorful text and characters: "Learing Processing"](img/video-thumb.jpg)
+[![Video thumbnail with colorful text and characters: "Learning Processing"](img/video-thumb.jpg)](https://nebula.tv/videos/codingtrain-beginners-guide-to-creative-coding-with-processing-full-course)
 
 Choo choo! Welcome aboard to the world of creative coding! Join me in this beginner-friendly video series and choo-choo-choose to embark on an exciting journey with Processing, a versatile and artist-friendly programming language and environment. Whether you're an absolute beginner or have some experience already, my goal is to inspire and empower you to unleash your creativity through coding. Processing is your gateway to making art, animations, and interactive experiences. No prior experience is required—just curiosity and a desire to create!
 
 Below, you'll find a detailed itinerary that includes links to all of the coding destinations: code examples, interactive exercises, and other reference material. Found a mechanical issue? Open an issue in this repo or call the conductor at [help@thecodingtrain.com](mailto:help@thecodingtrain.com).
 
-For passengers looking to chat in the cafe car, [hop onto the Discord](https://thecodingtrain.com/discord). There's always room for one more on the Coding Train!  
+For passengers looking to chat in the cafe car, [say hello in this reddit thread](https://www.reddit.com/r/Nebula/comments/16iylip/beginners_guide_to_creative_coding_with/) or [hop onto the Discord](https://thecodingtrain.com/discord). There's always room for one more on the Coding Train!  
 
 ## How to Watch
-This video can currently be watched on [here on Nebula](https://nebula.tv/videos/codingtrain-beginners-guide-to-creative-coding-with-processing-full-course)! Want to support The Coding Train and have access to even more coding adventures? Sign up for Nebula using [this Coding Train link](https://go.nebula.tv/codingtrain).
+This video is available [right now as a Nebula first](https://nebula.tv/videos/codingtrain-beginners-guide-to-creative-coding-with-processing-full-course)! Want to support The Coding Train and have access to even more coding adventures? [Buy your train tickets for a Nebula journey with the Coding Train](https://go.nebula.tv/codingtrain)!
+
 
 ## Introduction [0:00]
 
