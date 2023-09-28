@@ -64,9 +64,9 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Programming Design Systems Website](https://programmingdesignsystems.com/)
 
 ### Code Examples  
-#### In-Video-Examples:  
+#### In-Video Examples:  
 - insert link
-#### Do-It-Yourself-Examples:  
+#### Do-It-Yourself Solutions:  
 
 - [Abstract](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/abstract_sketch/abstract_sketch.pde)
 - [Alien](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/alien/alien.pde)
