@@ -63,7 +63,10 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Arc reference page](https://processing.org/reference/arc_.html)
 - [Programming Design Systems Website](https://programmingdesignsystems.com/)
 
-### Code Examples
+### Code Examples  
+#### In-Video-Examples:  
+- insert link
+#### Do-It-Yourself-Examples:  
 
 - [Abstract](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/abstract_sketch/abstract_sketch.pde)
 - [Alien](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/alien/alien.pde)
