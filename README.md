@@ -65,7 +65,10 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 
 ### Code Examples  
 #### In-Video Examples:  
-- insert link
+- [Basic Shapes](https://github.com/CodingTrain/Creative-Coding-Processing-Full-Course/blob/main/02_Drawing/CodingTrainBasicShapes/CodingTrainExample1.pde)
+- [Shapes with Color](https://github.com/CodingTrain/Creative-Coding-Processing-Full-Course/blob/main/02_Drawing/CodingTrainShapesWithColor/CodingTrainExample2.pde)
+- [Zoog](https://github.com/CodingTrain/Creative-Coding-Processing-Full-Course/blob/main/02_Drawing/Zoog/Zoog.pde)
+  
 #### Do-It-Yourself Solutions:  
 
 - [Abstract](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/abstract_sketch/abstract_sketch.pde)
