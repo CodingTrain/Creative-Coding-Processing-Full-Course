@@ -11,6 +11,7 @@ For passengers looking to chat in the cafe car, [say hello in this reddit thread
 ## How to Watch
 This video is available [right now as a Nebula first](https://nebula.tv/videos/codingtrain-beginners-guide-to-creative-coding-with-processing-full-course)! Want to support The Coding Train and have access to even more coding adventures? [Buy your train tickets for a Nebula journey with the Coding Train](https://go.nebula.tv/codingtrain)!
 
+[!Tabel of contents outlining timecodes for each chapter](img/outline.png)
 
 ## Introduction [0:00]
 
