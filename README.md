@@ -54,7 +54,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [The Coding Train Discord](https://discord.com/invite/ZHydDC8sXN)
 - [Processing Forum](https://discourse.processing.org/)
 
-## Drawing with Code [18:00]
+## Drawing with Code [17:30]
 
 ### Reference
 
@@ -81,7 +81,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Spaceship](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship/spaceship.pde)
 - [Spaceship with Color](https://github.com/CodingTrain/Learning-Processing-4/blob/main/02_Drawing/spaceship_color/spaceship_color.pde)
 
-## Flow [1:05:10]
+## Flow [1:04:39]
 
 ### Reference
 
@@ -92,7 +92,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Alien Antennas](https://github.com/CodingTrain/Learning-Processing-4/blob/main/03_Flow/alien_antennas/alien_antennas.pde)
 - [Alien Frown](https://github.com/CodingTrain/Learning-Processing-4/blob/main/03_Flow/alien_frown/alien_frown.pde)
 
-## Variables [1:30:01]
+## Variables [1:29:31]
 
 ### Code Examples
 
@@ -106,7 +106,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Random house](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/random_house/random_house.pde)
 - [Random lines](https://github.com/CodingTrain/Learning-Processing-4/blob/main/04_Variables/random_lines/random_lines.pde)
 
-## Conditionals [2:03:16]
+## Conditionals [2:02:46]
 
 ### Reference
 
@@ -127,7 +127,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Paintbrush conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/paintbrush_conditional/paintbrush_conditional.pde)
 - [Rows conditional](https://github.com/CodingTrain/Learning-Processing-4/blob/main/05_Conditionals/rows_conditional/rows_conditional.pde)
 
-## Loops [2:50:25]
+## Loops [2:50:01]
 
 ### Reference
 
@@ -146,7 +146,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Horizontal stripes](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/horizontal_stripes/horizontal_stripes.pde)
 - [Vertical stripes](https://github.com/CodingTrain/Learning-Processing-4/blob/main/06_Loops/vertical_stripes/vertical_stripes.pde)
 
-## Arrays [3:12:59]
+## Arrays [3:12:29]
 
 ### Reference
 
@@ -162,7 +162,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Fuit data viz average](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz_average/fruit_data_viz_average.pde)
 - [Fruit data viz sum](https://github.com/CodingTrain/Learning-Processing-4/blob/main/07_Arrays/fruit_data_viz_sum/fruit_data_viz_sum.pde)
 
-## Functions [3:40:59]
+## Functions [3:40:29]
 
 ### Code Examples
 
@@ -172,7 +172,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Rainbow, unicorn, puppy](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/rainbow_unicorn_puppy/rainbow_unicorn_puppy.pde)
 - [Unicorn only](https://github.com/CodingTrain/Learning-Processing-4/blob/main/08_Functions/unicorn_only/unicorn_only.pde)
 
-## Classes and Objects [4:03:00]
+## Classes and Objects [4:02:30]
 
 ### Reference
 
@@ -188,7 +188,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Bubbles and rain pop](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/bubbles_and_rain_pop)
 - [Flower class](https://github.com/CodingTrain/Learning-Processing-4/tree/main/09_ClassesAndObjects/flower_example)
 
-## Confetti Project [4:56:50]
+## Confetti Project [4:56:20]
 
 ### Reference
 
@@ -202,7 +202,7 @@ This video is available [right now as a Nebula first](https://nebula.tv/videos/c
 - [Confetti party arrayList](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party_ArrayList)
 - [Confetti party rotate](https://github.com/CodingTrain/Learning-Processing-4/tree/main/10_ConfettiProject/confetti_party_rotate)
 
-## Conclusion [5:03:45]
+## Conclusion [5:03:15]
 
 ### Reference
 
